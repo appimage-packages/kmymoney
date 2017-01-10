@@ -29,7 +29,7 @@ node('linux') {
     try {
 
         stage( 'Checkout' ) {
-            checkout changelog: false, poll: true, scm
+            checkout scm
             checkout changelog: false, poll: false, scm: [$class: 'GitSCM', branches: [[name: '*/master']], \
             browser: [$class: 'GithubWeb', repoUrl: ''], doGenerateSubmoduleConfigurations: false, \
             extensions: [[$class: 'RelativeTargetDirectory', relativeTargetDir: 'appimage-template']], submoduleCfg: [], \
