@@ -118,6 +118,14 @@ frameworks:
     - breeze-icons
     - kactivities
     - plasma-framework
+    - khtml
+    - kcmutils
+    - kitemmodels
+    - kholidays
+    - kcontacts
+    - akonadi
+    - kidentitymanagement
+    - kross
 type: git
 url: http://anongit.kde.org/kmymoney
 buildsystem: cmake
