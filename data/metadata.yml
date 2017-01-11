@@ -124,6 +124,7 @@ frameworks:
     - kholidays
     - kcontacts
     - akonadi
+    - kemoticon
     - kidentitymanagement
     - kross
 type: git
