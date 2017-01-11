@@ -126,6 +126,7 @@ frameworks:
     - akonadi
     - kemoticon
     - kidentitymanagement
+    - kparts
     - kross
 type: git
 url: http://anongit.kde.org/kmymoney
