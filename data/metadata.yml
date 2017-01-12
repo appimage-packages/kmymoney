@@ -124,7 +124,7 @@ frameworks:
     - kholidays
     - kcontacts
     - akonadi
-    - kemoticon
+    - kemoticons
     - kidentitymanagement
     - kparts
     - kross
