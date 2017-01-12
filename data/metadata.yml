@@ -117,7 +117,9 @@ frameworks:
     - knewstuff
     - breeze-icons
     - kactivities
+    - kdeclarative
     - plasma-framework
+    - kjs
     - khtml
     - kcmutils
     - kitemmodels
@@ -125,6 +127,7 @@ frameworks:
     - kcontacts
     - akonadi
     - kemoticons
+    - kpimtextedit
     - kidentitymanagement
     - kparts
     - kross
