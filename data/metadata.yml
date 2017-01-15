@@ -120,6 +120,7 @@ frameworks:
     - kdeclarative
     - plasma-framework
     - kjs
+    - kparts
     - khtml
     - kcmutils
     - kitemmodels
@@ -129,7 +130,6 @@ frameworks:
     - kemoticons
     - kpimtextedit
     - kidentitymanagement
-    - kparts
     - kross
 type: git
 url: http://anongit.kde.org/kmymoney
