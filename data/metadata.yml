@@ -42,6 +42,7 @@ frameworks:
     - knewstuff
     - breeze-icons
     - kactivities
+    - kpackage
     - kdeclarative
     - plasma-framework
     - kjs
