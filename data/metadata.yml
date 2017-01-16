@@ -52,8 +52,10 @@ frameworks:
     - kitemmodels
     - kholidays
     - kcontacts
+    - kdesignerplugin
     - akonadi
     - kemoticons
+    - syntax-highlighting
     - kpimtextedit
     - kidentitymanagement
     - kross
