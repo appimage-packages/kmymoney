@@ -4,6 +4,7 @@ packages:
   #app specifc
   - libgif-dev
   - xsltproc
+  - libalkimia-dev
 frameworks:
   build_kf5: true
   frameworks:
