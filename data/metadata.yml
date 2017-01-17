@@ -4,7 +4,6 @@ packages:
   #app specifc
   - libgif-dev
   - xsltproc
-  - libalkimia-dev
 frameworks:
   build_kf5: true
   frameworks:
@@ -63,6 +62,7 @@ frameworks:
     - kpimtextedit
     - kidentitymanagement
     - kross
+    - libalkimia
 type: git
 url: http://anongit.kde.org/kmymoney
 buildsystem: cmake
