@@ -3,6 +3,7 @@ packages:
   - build-essential
   #app specifc
   - libgif-dev
+  - xsltproc
 frameworks:
   build_kf5: true
   frameworks:
@@ -52,6 +53,8 @@ frameworks:
     - kitemmodels
     - kholidays
     - kcontacts
+    - kplotting
+    - kdewebkit
     - kdesignerplugin
     - akonadi
     - kemoticons
