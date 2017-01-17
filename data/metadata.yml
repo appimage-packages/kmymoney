@@ -62,7 +62,7 @@ frameworks:
     - kpimtextedit
     - kidentitymanagement
     - kross
-    - libalkimia
+    - alkimia
 type: git
 url: http://anongit.kde.org/kmymoney
 buildsystem: cmake
