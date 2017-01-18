@@ -64,6 +64,7 @@ frameworks:
     - kidentitymanagement
     - kross
     - alkimia
+    - kchart
 type: git
 url: http://anongit.kde.org/kmymoney
 buildsystem: cmake
