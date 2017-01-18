@@ -94,7 +94,7 @@ rm -rf ./usr/share/doc/ECM || true
 rm -rf ./usr/share/doc/libdbusmenu-qt5-doc || true
 rm -rf ./usr/share/gtk-doc || true
 #Huge.. see if we can function without it
-rm ./lib/libQt5WebEngineCore.so.5
+#rm ./lib/libQt5WebEngineCore.so.5
 find . -name '*.a' -exec rm {} \;
 get_desktopintegration <%= name %>
 cd /app/src
