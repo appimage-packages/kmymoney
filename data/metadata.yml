@@ -65,6 +65,7 @@ frameworks:
     - kross
     - alkimia
     - kdiagram
+    - breeze
 type: git
 url: http://anongit.kde.org/kmymoney
 buildsystem: cmake
