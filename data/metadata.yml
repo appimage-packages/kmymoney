@@ -1,4 +1,5 @@
 name: kmymoney
+binary: kmymoney
 packages:
   - build-essential
   #app specifc
